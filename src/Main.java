@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         // Salam
-        
+
     }
 
-    public void method(){}
+    // public void method(){}
 }
